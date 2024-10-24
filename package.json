@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/MostSaltedFish/CosyUI#readme",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
